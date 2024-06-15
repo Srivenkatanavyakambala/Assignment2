@@ -1,0 +1,4 @@
+Refactoring Type	Source Entity	Target Class	Source/Target accessed members	Rate it!
+Move Method	cn.wildfirechat.proto.WFCMessage.GeneralResult.Builder::mergeFrom(cn.wildfirechat.proto.WFCMessage.GeneralResult):cn.wildfirechat.proto.WFCMessage.GeneralResult.Builder	cn.wildfirechat.proto.WFCMessage.GeneralResult	2/3	
+Move Method	cn.wildfirechat.proto.WFCMessage.INT64Buf.Builder::mergeFrom(cn.wildfirechat.proto.WFCMessage.INT64Buf):cn.wildfirechat.proto.WFCMessage.INT64Buf.Builder	cn.wildfirechat.proto.WFCMessage.INT64Buf	2/3	
+Move Method	cn.wildfirechat.proto.WFCMessage.Version.Builder::mergeFrom(cn.wildfirechat.proto.WFCMessage.Version):cn.wildfirechat.proto.WFCMessage.Version.Builder	cn.wildfirechat.proto.WFCMessage.Version	2/3	
