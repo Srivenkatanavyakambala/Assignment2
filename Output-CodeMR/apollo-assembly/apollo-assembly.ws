@@ -1,0 +1,1 @@
+{"apollo-assembly":{"name":"apollo-assembly","packages":{"com.ctrip.framework.apollo.assembly":{"packageName":"com.ctrip.framework.apollo.assembly","isAll":false,"classes":["Lcom/ctrip/framework/apollo/assembly/ApolloApplication;"]}}}}
