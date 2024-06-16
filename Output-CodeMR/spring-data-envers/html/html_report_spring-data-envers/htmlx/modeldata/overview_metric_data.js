@@ -1,0 +1,1 @@
+var CodeMR_ProjectMetrics = {"Project Name":"spring-data-envers working set: {spring-data-envers}", "Number of Highly Problematic Classes":0, "Number of Entities":9, "Number of Problematic Classes":1, "Class Lines of Code":201, "Number of External Packages":24, "Number of Packages":2, "Number of External Entities":51}
