@@ -1,0 +1,1 @@
+{"google-http-client-android":{"name":"google-http-client-android","packages":{}}}
